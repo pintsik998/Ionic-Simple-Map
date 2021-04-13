@@ -1,0 +1,8 @@
+{
+  "name": "simple_map2",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
